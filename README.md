@@ -1,4 +1,5 @@
 # module-5_assignment
+# Coursera-HTML,CSS and Javascript for Web Developers
 1.Create a folder in your repository that will serve as a container folder for your solution to this assignment. You can call it whatever you want. For example, module5-solution or mod5_solution, etc.
 
 2.You will need to download the starter files for this project and copy them into your solution container folder (e.g., into 'module5-solution'). Since assignments and starter code get updated from time to time, don't assume that you have the latest version already on your system. The best way to ensure that you are working with the very latest starter code is either 'git clone' the fullstack-course4 repository into a new directory OR, if you've already done 'git clone' previously, you can simply open up your command prompt (cmd on Windows or Terminal on Mac), navigate to the folder where the fullstack-course4 repository was previously cloned into and do: git pull
